@@ -19,7 +19,7 @@ A simple and interactive Dice Roller application built using **Flutter and Dart*
 
 ## 📸 Screenshot
 
-![Dice Roller App](screenshot.png)
+![Dice Roller App](roller.jpg)
 
 ## 🚀 Getting Started
 
