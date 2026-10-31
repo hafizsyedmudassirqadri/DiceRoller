@@ -1,17 +1,66 @@
-# diceroller
+# 🎲 Dice Roller App
 
-A new Flutter project.
+A simple and interactive Dice Roller application built using **Flutter and Dart**. This app allows users to roll two dice randomly, track their scores, and manage their remaining turns.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🎲 Roll two dice with random results.
+- 🏆 Score tracking system.
+- 🔢 Displays remaining turns.
+- 🔄 Reset button to restart the game.
+- 🎨 Simple and clean user interface.
+- ⚡ Fast and smooth performance.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshot
+
+![Dice Roller App](screenshot.png)
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/hafizsyedmudassirqadri/DiceRoller.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd diceroller
+```
+
+**3. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+**4. Run the application**
+
+```bash
+flutter run
+```
+
+## 🎯 Learning Objectives
+
+This project helped me practice:
+
+- Flutter UI development.
+- StatefulWidget and setState().
+- Random number generation.
+- Managing application state.
+- Handling button interactions.
+
+## 👨‍💻 Author Hafiz Syed Mudassir Hassan
+
+Created with ❤️ using Flutter and Dart.
+
+**If you like this project, don't forget to give it a ⭐!**
